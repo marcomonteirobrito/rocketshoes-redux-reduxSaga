@@ -4,10 +4,10 @@
 </h1>
 
 <h1 align="center">
-    <img src="imagens/rocketseat.gif" width="600" height="600"/>
+    <img src="imagens/rocketshoes.gif" width="600" height="600"/>
 </h1>
 
-<h2 align="center">RocketShoes é uma aplicação criada durante o bootcamp da Rocketseat, onde é nós ensinado o grande poder da arquitetura flux.</h2>
+<h2 align="center">RocketShoes é uma aplicação criada durante o bootcamp da Rocketseat utilizando o ReactJS e o poder do Redux.</h2>
 
 <h2><strong>:satellite:Tecnologias utilizadas*</strong></h2>
 
@@ -31,13 +31,13 @@ Execute o comando ```npm install``` na raiz do projeto para instalar as dependê
 <img align="center" alt="npminstall" src="imagens/npminstall.PNG"> 
 
 Execute também o comando ```npm server``` na raiz para executar a API.
-<img align="center" alt="npminstall" src="imagens/server.PNG"> 
+<img align="center" alt="npmserver" src="imagens/server.PNG"> 
 
 Após executado o código acima, execute o comando ```npm start``` na raiz de cada projeto em outro CMD.
 <img align="center" alt="npmstart" src="imagens/npmStart.PNG">
 
 
  
-Dúvidas entre em contato pelo <h4 align="center"> <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
+<h4>Dúvidas entre em contato pelo <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/marcomonteirobrito" target="_blank">marcomonteirobrito</a> </h4>
