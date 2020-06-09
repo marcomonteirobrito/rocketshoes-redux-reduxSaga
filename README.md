@@ -20,8 +20,8 @@
 ## 🚀 Telas aplicação 
 
 <p align="center">
-	<img alt="" title="" src="imagens/3home.PNG">
-	<img alt="" title="" src="imagens/4cart.PNG">
+	<img alt="" title="" src="imagens/3Home3.PNG">
+	<img alt="" title="" src="imagens/4Cart4.PNG">
 </p>
 
 
