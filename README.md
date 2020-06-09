@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="imagens/rocketshoes.gif" width="800" height="400"/>
+    <img src="imagens/1rocketshoes.gif" width="800" height="400"/>
 </h1>
 
 <h2 align="center">RocketShoes é uma aplicação criada durante o bootcamp da Rocketseat utilizando o ReactJS e o poder do Redux.</h2>
